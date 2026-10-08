@@ -79,3 +79,10 @@ ProtoPointは、Windows版PowerPointで通常の図形を使いながら、UIプ
 PowerPointをすべて閉じ、`uninstall.cmd`を実行してください。作成したPowerPointファイルと保存済みの初期値は残ります。
 
 初期値の保存先：`%LOCALAPPDATA%\PowerPointUiPrototype\presets.xml`
+
+## フィードバック
+
+不具合の報告や機能の提案は、GitHub Issuesからお願いします。
+
+- [不具合を報告する](../../issues/new/choose)
+- [機能を提案する](../../issues/new/choose)
