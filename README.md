@@ -23,7 +23,7 @@ ProtoPointは、Windows版PowerPointで通常の図形を使いながら、UIプ
 
 ## スクリーンショット
 
-<!-- ProtoPointの画面キャプチャをここに追加 -->
+![ProtoPoint](docs/protopoint-main.png)
 
 © 2026 Seasalt Lab.
 
